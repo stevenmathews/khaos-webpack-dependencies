@@ -1,17 +1,17 @@
 {
-  "name": "khaos-webpack-dependencies",
+  "name": "khaos-webpack-deps",
   "description": "Check when khaos-webpack dependencies need updating",
   "version": "0.1.0",
   "author": "Steve Mathews",
   "bugs": {
-    "url": "https://github.com/stevenmathews/khaos-webpack-dependencies/issues"
+    "url": "https://github.com/stevenmathews/khaos-webpack-deps/issues"
   },
-  "homepage": "https://github.com/stevenmathews/khaos-webpack-dependencies#readme",
+  "homepage": "https://github.com/stevenmathews/khaos-webpack-deps#readme",
   "license": "MIT",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevenmathews/khaos-webpack-dependencies.git"
+    "url": "git+https://github.com/stevenmathews/khaos-webpack-deps.git"
   },
   "scripts": {
     "start": "webpack-dev-server --inline --quiet",

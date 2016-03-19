@@ -1,4 +1,4 @@
-# khaos-webpack-dependencies
+# khaos-webpack-deps
 
 Check when khaos-webpack dependencies need updating
 

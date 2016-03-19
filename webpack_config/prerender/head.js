@@ -1,1 +1,1 @@
-module.exports = '<title>khaos-webpack-dependencies</title>'
+module.exports = '<title>khaos-webpack-deps</title>'
